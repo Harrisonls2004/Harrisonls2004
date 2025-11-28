@@ -1,12 +1,3 @@
 ## Hi there 👋
 
-![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amon)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amon&size_weight=0.5&count_weight=0.5&langs_count=8)
-
-
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Amon&left_color=green&right_color=red)
-
-![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amon&theme=xcode)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=coderfix-lab&show_icons=true&theme=dark&count_private=true)

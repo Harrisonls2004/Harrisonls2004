@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=coderfix-lab&show_icons=true&theme=dark&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Amon&show_icons=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderfix-lab&theme=dark&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amon&layout=compact)

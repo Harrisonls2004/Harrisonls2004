@@ -18,7 +18,7 @@ I'm interested in multi-agent collaboration, natural language processing, and bu
 ### 🤗 Connect with Me
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=Harrisonls2004.Harrisonls2004)](https://visitor-badge.laobi.icu/badge?page_id=Harrisonls2004.Harrisonls2004)
-[![Mail Badge](https://img.shields.io/badge/-lhlddudu@bupt.edu.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lhlddudu@bupt.edu.cn)](mailto:lhlddudu@bupt.edu.cn)
+[![Mail Badge](https://img.shields.io/badge/-lhlddudu@bupt.edu.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lhlddudu@bupt.edu.cn)](mailto:lhldudu@bupt.edu.cn)
 [![](https://img.shields.io/github/stars/Harrisonls2004?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=Harrisonls2004&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![](https://img.shields.io/github/followers/Harrisonls2004?color=27da6b&logo=Handshake)](https://github.com/Harrisonls2004?tab=followers)
 [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-lhldudu's%20blog-d7b1bf?logo=Blogger)](https://harrisonls2004.github.io)

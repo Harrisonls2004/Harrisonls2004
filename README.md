@@ -27,12 +27,6 @@ I'm interested in multi-agent collaboration, natural language processing, and bu
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,git,github,vscode,linux&theme=light)](https://github.com/Harrisonls2004)
 
-### 💻 Stats
-
-<div align="center">
-
-[![snake-dark](https://raw.githubusercontent.com/Harrisonls2004/Harrisonls2004/gh-pages/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/Harrisonls2004/Harrisonls2004/gh-pages/github-contribution-grid-snake-dark.svg)
-
 </div>
 
 </details>
